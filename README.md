@@ -19,8 +19,8 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/aishoo1612"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aishoo1612?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@aishoo1612" height="30"></a>
-   <a href="https://badges.pufler.dev/repos/aishoo1612"> <img alt="Shatakshi's github" src="https://badges.pufler.dev/repos/aishoo1612" height="30"> </a>
+   <a href="https://twitter.com/RamanShatakshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aishoo1612?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@aishoo1612" height="30"></a>
+   <a href="https://badges.pufler.dev/repos/ShatakshiRaman"> <img alt="Shatakshi's github" src="https://badges.pufler.dev/repos/ShatakshiRaman" height="30"> </a>
  </p>
  
  <h5 align="center">
