@@ -62,13 +62,13 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=aishoo1612&&show_icons=true&theme=synthwave"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=ShatakshiRaman&&show_icons=true&theme=synthwave"/>
   </a>
 
 </p>
 <p align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishoo1612&layout=compact&theme=tokyonight"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiRaman&layout=compact&theme=tokyonight"/>
   </a>
 </p>
 <br />
