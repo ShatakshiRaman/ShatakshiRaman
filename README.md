@@ -1,41 +1,106 @@
-<h1 align="center">Hi 👋, I'm Shatakshi Raman</h1>
-<h3 align="center">I am a Data Engineering Enthusiast from India!</h3>
+<div align="center">
+   <h1>Hello! , I'm <a href="https://www.linkedin.com/in/shatakshi-raman-b4aaa9155/">Shatakshi</a> <img src="https://media2.giphy.com/media/fdG07xF24smvBim16E/giphy.gif?cid=790b76116969b67d5abaf7bf4c9f907ae856c75a23f19efc&rid=giphy.gif&ct=s" width="25px"> </h1>
+   
+   
+   
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shatakshiraman&label=Profile%20views&color=0e75b6&style=flat" alt="shatakshiraman" /> </p>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/shatakshi-raman-b4aaa9155/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <p align='center'>
+   <a href="https://sites.google.com/view/shatakshiraman"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/web.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/aishoo1612"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shatakshiraman" alt="shatakshiraman" /></a> </p>
 
-- 🔭 I’m currently working with **Yamaha Motor Solutions, as a Dynamics Developer/**
 
-- 🌱 I’m currently learning **Apache and Hadoop!**
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Shatakshi  | 💻 Ai, NLP Developer | 🛸 India <img src="https://media2.giphy.com/media/iSD0xUVEd8iABcQpTg/giphy.gif" width="30"></h3>
+</div>
 
-- 🤝 I’m looking for help with **creating new product research framework.**
 
-- 👨‍💻 You can find me at [https://sites.google.com/view/shatakshiraman](https://sites.google.com/view/shatakshiraman)
-
-- 📝 I regularly write articles on [https://medium.com/@aishoowrites](https://medium.com/@aishoowrites)
-
-- 💬 Ask me about **Data Engineering, Natural Language and Coffee**
-
-- 📫 How to reach me **dev16120000@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/shatakshi-raman-b4aaa9155/](https://www.linkedin.com/in/shatakshi-raman-b4aaa9155/)
-
-- ⚡ Fun fact **I can touch the tip of nose with my tongue**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ramanshatakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramanshatakshi" height="30" width="40" /></a>
-<a href="https://instagram.com/spartaxrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spartaxrd" height="30" width="40" /></a>
-<a href="https://dribbble.com/spartaxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="spartaxr" height="30" width="40" /></a>
-<a href="https://medium.com/@aishoowrites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aishoowrites" height="30" width="40" /></a>
+<p align="center">
+   <a href="https://twitter.com/aishoo1612"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aishoo1612?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@aishoo1612" height="30"></a>
+   <a href="https://badges.pufler.dev/repos/aishoo1612"> <img alt="Shatakshi's github" src="https://badges.pufler.dev/repos/aishoo1612" height="30"> </a>
+ </p>
+ 
+ <h5 align="center">
+   <i>⚡️Fighting Octo-Cats⚡️</i>
+  </h5>
+ 
+ 
+<br />
+<img align="right" height="450px" width="450px" alt="GIF" src="https://media4.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif?cid=ecf05e47j5ybl9r2octpxk3clgug1u457pkcjur9mqg0zdpi&rid=giphy.gif&ct=g" />
+<p align="center">
+  <h3> I'm 23 years Data Engineering Enthusiast who believes in predicting future with binaries. Oh and I sometimes, understand Humans</h3>
 </p>
+ <img src="https://giphy.com/stickers/family-simpsons-take-wyct0orcyRcS4" width="25px">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ - 🥀 Quarantining with keras and TF!
+ 
+ - <i>with Python, SQL, sometimes and rarely JS and 69 others.</i>
+   
+ - 🔭 Future Martian 
+ 
+ - 📊 Data Engineering, Visualization, Anaysis 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shatakshiraman&" alt="shatakshiraman" /></p>
+ - 🛸 Into Neuro-psychotic Books
+ 
+ - 💟 Proud ARMY a lot of love :heart:
+ 
+ - 🐱‍👤 Trying to work on making black box models Interpretable!
+ 
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" height= "40px" width= "80px"  >](https://twitter.com/aisoo1612/)
+ 
+ <p align="center">
+  <h3> SQL | DL | AI | NLP </h3>
+   </p>
+
+
+
+
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=aishoo1612&&show_icons=true&theme=synthwave"/>
+  </a>
+
+</p>
+<p align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishoo1612&layout=compact&theme=tokyonight"/>
+  </a>
+</p>
+<br />
+
+### - Languages and Tools...
+
+<p align="center">
+  <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" > 
+  <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" > 
+  <img src = "https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" > 
+  <img src = "https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"  alt="datascience" style="vertical-align:top; margin:4px" > 
+  <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" > 
+   <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+    <img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+
+   
+<p align="center"><img align="center" height="200px" width="200px" alt="GIF" src="https://media4.giphy.com/media/lnJ2TVXSgCGNC0Nxyn/giphy.gif?cid=ecf05e47qtffg5m9x3d0k914ywilwf4jjfngqeaq9p2ihsy0&rid=giphy.gif&ct=g" />
+<p align="center"></p>
+
+
+   
+<br />
+
+<h3 align='center'>⚡️<i>Staying Alive!</i>⚡️</h3>
+
+<h4 align ='center'><i>Made with 💕 from Shatakshi 🦋</i></h4>
+-----
